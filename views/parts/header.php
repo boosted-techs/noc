@@ -112,7 +112,7 @@
 
 
                             <li class="">
-                                <a href="/Volunters">Volunters</a>
+                                <a href="/Volunters">Volunteers</a>
 
                             </li>
 
@@ -152,12 +152,13 @@
                         </a>
                         <span class="main-header__cart__quantity">0</span>
                     </div><!-- /.main-header__cart -->
-                    <a href="/donate" class="cleenhearts-btn main-header__btn">
-                        <div class="cleenhearts-btn__icon-box">
-                            <div class="cleenhearts-btn__icon-box__inner"><span class="icon-donate"></span></div>
-                        </div>
-                        <span class="cleenhearts-btn__text">donate now</span>
-                    </a><!-- /.thm-btn main-header__btn -->
+<!--                    <a href="/donate" class="cleenhearts-btn main-header__btn">-->
+<!--                        <div class="cleenhearts-btn__icon-box">-->
+<!--                            <div class="cleenhearts-btn__icon-box__inner"><span class="icon-donate"></span></div>-->
+<!--                        </div>-->
+<!--                        <span class="cleenhearts-btn__text">donate now</span>-->
+<!--                    </a>-->
+                    <!-- /.thm-btn main-header__btn -->
                 </div><!-- /.main-header__right -->
             </div><!-- /.main-header__inner -->
         </div><!-- /.container -->
