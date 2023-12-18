@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nambi Orphanage Centre</title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicons/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/1.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/1.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="/assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Nambi Orphanage Centre" />
@@ -45,7 +45,7 @@
 <div class="custom-cursor__cursor-two"></div>
 
 <div class="preloader">
-    <div class="preloader__image" style="background-image: url(/assets/images/loader.png);"></div>
+    <div class="preloader__image" style="background-image: url(/assets/1.png);"></div>
 </div>
 <!-- /.preloader -->
 <div class="page-wrapper">
@@ -91,7 +91,7 @@
             <div class="main-header__inner">
                 <div class="main-header__logo">
                     <a href="/">
-                        <img src="/assets/images/logo-dark.png" alt="NOC HTML" width="159">
+                        <img src="/assets/1.png" alt="NOC HTML" width="159">
                     </a>
                     <button type="button" class="main-header__sidebar-btn sidebar-btn__toggler">
                         <span class="icon-grid"></span>
@@ -147,12 +147,12 @@
                         <span></span>
                     </div><!-- /.mobile-nav__toggler -->
                     <div class="main-header__cart">
-                        <a href="cart.html" class="main-header__cart__link">
+                        <a href="/cart.html" class="main-header__cart__link">
                             <span class="icon-trolley"></span>
                         </a>
                         <span class="main-header__cart__quantity">0</span>
                     </div><!-- /.main-header__cart -->
-                    <a href="donate.html" class="cleenhearts-btn main-header__btn">
+                    <a href="/donate" class="cleenhearts-btn main-header__btn">
                         <div class="cleenhearts-btn__icon-box">
                             <div class="cleenhearts-btn__icon-box__inner"><span class="icon-donate"></span></div>
                         </div>

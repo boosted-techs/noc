@@ -4,12 +4,12 @@
             <div class="row gutter-y-30">
                 <div class="col-md-12 col-xl-3 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                     <div class="footer-widget footer-widget--about">
-                        <a href="index" class="footer-widget__logo">
-                            <img src="/assets/images/logo-dark.png" width="159" alt="Cleenhearts HTML Template">
+                        <a href="/" class="footer-widget__logo">
+                            <img src="/assets/1.png" width="159" alt="noc">
                         </a>
                         <p class="footer-widget__about-text">Nambi Orphange Centre</p>
                     </div><!-- /.footer-widget -->
-                    <a href="https://www.google.com/maps/@23.506657,90.3443647,7z?entry=ttu" class="footer-widget__map">
+                    <a href="https://maps.app.goo.gl/tMV77R2Y4JjE3Mmp6" class="footer-widget__map">
                         <span class="footer-widget__map__text">View Map</span>
                         <span class="icon-paper-plane"></span>
                     </a>

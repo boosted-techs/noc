@@ -18,7 +18,7 @@ include "parts/header.php";
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="00ms">
                 <div class="contact-one__map">
                     <div class="google-map contact-one__google__map">
-                        <iframe title="template google map" src="https://maps.app.goo.gl/tMV77R2Y4JjE3Mmp6" class="map__contact-one__google__map" allowfullscreen></iframe>
+                        <iframe title="template google map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15958.972140985512!2d32.5577485!3d0.3519786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbd8752a40c9b%3A0x20ddd451d464b205!2sBoosted%20Technologies%20LTD!5e0!3m2!1sen!2sug!4v1702897665297!5m2!1sen!2sug" class="map__contact-one__google__map" allowfullscreen></iframe>
                     </div>
                     <!-- /.google-map -->
                     <div class="contact-one__info">
