@@ -19,7 +19,7 @@
                 <!-- Slide 1 -->
                 <div class="item">
                     <div class="main-slider-one__item">
-                        <div class="main-slider-one__bg" style="background-image: url(/assets/images/backgrounds/slider-1-1.jpg);"></div>
+                        <div class="main-slider-one__bg" style="background-image: url(/assets/photos/3.jpeg);"></div>
                         <div class="main-slider-one__shape-one" style="background-image: url(/assets/images/shapes/slider-1-shape-1.png);"></div>
                         <div class="main-slider-one__shape-two" style="background-image: url(/assets/images/shapes/slider-1-shape-2.png);"></div>
                         <div class="main-slider-one__content">
@@ -47,7 +47,7 @@
                 <!-- Slide 2 -->
                 <div class="item">
                     <div class="main-slider-one__item">
-                        <div class="main-slider-one__bg" style="background-image: url(/assets/images/backgrounds/slider-1-2.jpg);"></div>
+                        <div class="main-slider-one__bg" style="background-image: url(/assets/photos/1.jpeg);"></div>
                         <div class="main-slider-one__shape-one" style="background-image: url(/assets/images/shapes/slider-1-shape-1.png);"></div>
                         <div class="main-slider-one__shape-two" style="background-image: url(/assets/images/shapes/slider-1-shape-2.png);"></div>
                         <div class="main-slider-one__content">
@@ -75,7 +75,7 @@
                 <!-- Slide 3 -->
                 <div class="item">
                     <div class="main-slider-one__item">
-                        <div class="main-slider-one__bg" style="background-image: url(/assets/images/backgrounds/slider-1-3.jpg);"></div>
+                        <div class="main-slider-one__bg" style="background-image: url(/assets/photos/2.jpeg);"></div>
                         <div class="main-slider-one__shape-one" style="background-image: url(/assets/images/shapes/slider-1-shape-1.png);"></div>
                         <div class="main-slider-one__shape-two" style="background-image: url(/assets/images/shapes/slider-1-shape-2.png);"></div>
                         <div class="main-slider-one__content">

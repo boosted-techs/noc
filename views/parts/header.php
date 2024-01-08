@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nambi Orphanage Centre</title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/1.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/1.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicons/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logo.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/logo.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/logo.png" />
     <link rel="manifest" href="/assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Nambi Orphanage Centre" />
 
@@ -36,7 +36,7 @@
     <link rel="stylesheet" href="/assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
 
     <!-- template styles -->
-    <link rel="stylesheet" href="/assets/css/cleenhearts.css" />
+    <link rel="stylesheet" href="/assets/css/cleenhearts.css?v=1" />
 </head>
 
 <body class="custom-cursor">
@@ -45,7 +45,7 @@
 <div class="custom-cursor__cursor-two"></div>
 
 <div class="preloader">
-    <div class="preloader__image" style="background-image: url(/assets/1.png);"></div>
+    <div class="preloader__image" style="background-image: url(/assets/logo.png);"></div>
 </div>
 <!-- /.preloader -->
 <div class="page-wrapper">
@@ -91,7 +91,7 @@
             <div class="main-header__inner">
                 <div class="main-header__logo">
                     <a href="/">
-                        <img src="/assets/1.png" alt="NOC HTML" width="159">
+                        <img src="/assets/logo.png" alt="NOC HTML" width="159">
                     </a>
                     <button type="button" class="main-header__sidebar-btn sidebar-btn__toggler">
                         <span class="icon-grid"></span>
